@@ -2,6 +2,7 @@
   "name": "sticky-notes",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/Beg92/sticky-notes-app.git",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -10,9 +11,12 @@
     "react-scripts": "5.0.1"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "typescript": "3.3.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
