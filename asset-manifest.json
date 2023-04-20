@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Beg92/sticky-notes-app.git/static/css/main.96299d26.css",
+    "main.js": "/Beg92/sticky-notes-app.git/static/js/main.98adf374.js",
+    "index.html": "/Beg92/sticky-notes-app.git/index.html",
+    "main.96299d26.css.map": "/Beg92/sticky-notes-app.git/static/css/main.96299d26.css.map",
+    "main.98adf374.js.map": "/Beg92/sticky-notes-app.git/static/js/main.98adf374.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96299d26.css",
+    "static/js/main.98adf374.js"
+  ]
+}
