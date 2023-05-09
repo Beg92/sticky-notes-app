@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/Beg92/sticky-notes-app.git/static/css/main.96299d26.css",
-    "main.js": "/Beg92/sticky-notes-app.git/static/js/main.98adf374.js",
-    "index.html": "/Beg92/sticky-notes-app.git/index.html",
-    "main.96299d26.css.map": "/Beg92/sticky-notes-app.git/static/css/main.96299d26.css.map",
-    "main.98adf374.js.map": "/Beg92/sticky-notes-app.git/static/js/main.98adf374.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.96299d26.css",
-    "static/js/main.98adf374.js"
-  ]
+  "main.css": "/sticky-notes-app/static/css/main.158ae4a4.chunk.css",
+  "main.js": "/sticky-notes-app/static/js/main.30779cbb.chunk.js",
+  "main.js.map": "/sticky-notes-app/static/js/main.30779cbb.chunk.js.map",
+  "runtime~main.js": "/sticky-notes-app/static/js/runtime~main.11529745.js",
+  "runtime~main.js.map": "/sticky-notes-app/static/js/runtime~main.11529745.js.map",
+  "static/js/2.b4876291.chunk.js": "/sticky-notes-app/static/js/2.b4876291.chunk.js",
+  "static/js/2.b4876291.chunk.js.map": "/sticky-notes-app/static/js/2.b4876291.chunk.js.map",
+  "index.html": "/sticky-notes-app/index.html",
+  "precache-manifest.a263aef1eb738cebbfe86ceadc6e5236.js": "/sticky-notes-app/precache-manifest.a263aef1eb738cebbfe86ceadc6e5236.js",
+  "service-worker.js": "/sticky-notes-app/service-worker.js",
+  "static/css/main.158ae4a4.chunk.css.map": "/sticky-notes-app/static/css/main.158ae4a4.chunk.css.map"
 }
